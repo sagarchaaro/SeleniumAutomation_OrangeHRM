@@ -1,0 +1,186 @@
+13-03-2021 08:35:43 INFO [Log]: The Project Path is:C:\Eclipse\SeleniumLectures\SeleniumAutomation_OrangeHRM
+13-03-2021 08:35:55 INFO [Log]: The Project Path is:C:\Eclipse\SeleniumLectures\SeleniumAutomation_OrangeHRM
+13-03-2021 08:40:32 INFO [Log]: The Project Path is:C:\Eclipse\SeleniumLectures\SeleniumAutomation_OrangeHRM
+13-03-2021 08:40:51 INFO [Log]: OrangeHRM website is loaded
+13-03-2021 08:40:52 INFO [Log]: Admin is entered as a Username
+13-03-2021 08:40:52 INFO [Log]: Admin@123 is entered as a Password
+13-03-2021 08:41:00 INFO [Log]: Login button is clicked
+13-03-2021 08:41:00 INFO [Log]: Login is successful and Home page is loaded
+13-03-2021 08:41:00 INFO [Log]: PIM Menu is clicked
+13-03-2021 08:41:01 INFO [Log]: Add Employee is clicked
+13-03-2021 08:41:14 INFO [Log]: Text message is:* Required field
+13-03-2021 08:41:14 INFO [Log]: Add Employee page is loaded
+13-03-2021 08:41:14 INFO [Log]: Irfan is entered as a first name
+13-03-2021 08:41:15 INFO [Log]: Anwar is entered as a last name
+13-03-2021 08:41:15 INFO [Log]: Indian Development Cener location is found and it is clicked
+13-03-2021 08:41:15 INFO [Log]: Next button is clicked
+13-03-2021 08:41:15 INFO [Log]: Text message is:First Name*
+13-03-2021 08:41:15 INFO [Log]: Add Employee 2d page is loaded
+13-03-2021 08:41:15 INFO [Log]: Scrolled Down till the bottom of the page
+13-03-2021 08:41:23 INFO [Log]: Blood Group is clicked
+13-03-2021 08:41:23 INFO [Log]: Blood Group is selected AB
+13-03-2021 08:41:23 INFO [Log]: Playing Games is entered as Hobbies
+13-03-2021 08:41:23 INFO [Log]: Clicked on Next button
+13-03-2021 08:41:31 INFO [Log]: Text message is:Job Title
+13-03-2021 08:41:31 INFO [Log]: Add Employee 3rd page is loaded
+13-03-2021 08:41:31 INFO [Log]: Scrolled Down till the bottom of the page
+13-03-2021 08:41:31 INFO [Log]: Region drop down is clicked
+13-03-2021 08:41:31 INFO [Log]: Region is selected as Region-2
+13-03-2021 08:41:31 INFO [Log]: FTE drop down is clicked
+13-03-2021 08:41:31 INFO [Log]: FTE is selected as 0.5
+13-03-2021 08:41:32 INFO [Log]: Temporary Department drop down is clicked
+13-03-2021 08:41:32 INFO [Log]: Temporary Department is selected as Sub unit-2
+13-03-2021 08:41:32 INFO [Log]: Save button is clicked
+13-03-2021 08:41:44 INFO [Log]: Text message is:Employee Id
+13-03-2021 08:41:44 INFO [Log]: Complete Add Employee page is loaded
+13-03-2021 08:41:44 INFO [Log]: Employee list is clicked
+13-03-2021 08:41:45 INFO [Log]: Vishnu Bharath is entered as Employee Name Quick filter
+13-03-2021 08:41:45 INFO [Log]: Enter button action is performed
+13-03-2021 08:41:47 INFO [Log]: Search Result found and click action is performed
+13-03-2021 08:41:50 INFO [Log]: Complete Name is found and it is matched
+13-03-2021 08:41:50 INFO [Log]: location is found and it is matched
+13-03-2021 08:41:50 INFO [Log]: Logout dropwn is clicked
+13-03-2021 08:41:52 INFO [Log]: Logout button is clicked
+13-03-2021 08:46:51 INFO [Log]: *****************************************************************
+13-03-2021 08:46:51 INFO [Log]: **********AddEmployee************
+13-03-2021 08:46:51 INFO [Log]: ******************************************************************
+13-03-2021 08:46:51 INFO [Log]: The Project Path is:C:\Eclipse\SeleniumLectures\SeleniumAutomation_OrangeHRM
+13-03-2021 08:47:05 INFO [Log]: OrangeHRM website is loaded
+13-03-2021 08:47:06 INFO [Log]: Admin is entered as a Username
+13-03-2021 08:47:07 INFO [Log]: Admin@123 is entered as a Password
+13-03-2021 08:47:13 INFO [Log]: Login button is clicked
+13-03-2021 08:47:13 INFO [Log]: Login is successful and Home page is loaded
+13-03-2021 08:47:13 INFO [Log]: PIM Menu is clicked
+13-03-2021 08:47:14 INFO [Log]: Add Employee is clicked
+13-03-2021 08:47:27 INFO [Log]: Text message is:* Required field
+13-03-2021 08:47:27 INFO [Log]: Add Employee page is loaded
+13-03-2021 08:47:27 INFO [Log]: Irfan is entered as a first name
+13-03-2021 08:47:27 INFO [Log]: Anwar is entered as a last name
+13-03-2021 08:47:28 INFO [Log]: Indian Development Cener location is found and it is clicked
+13-03-2021 08:47:28 INFO [Log]: Next button is clicked
+13-03-2021 08:47:28 INFO [Log]: Text message is:First Name*
+13-03-2021 08:47:28 INFO [Log]: Add Employee 2d page is loaded
+13-03-2021 08:47:28 INFO [Log]: Scrolled Down till the bottom of the page
+13-03-2021 08:47:36 INFO [Log]: Blood Group is clicked
+13-03-2021 08:47:36 INFO [Log]: Blood Group is selected AB
+13-03-2021 08:47:36 INFO [Log]: Playing Games is entered as Hobbies
+13-03-2021 08:47:36 INFO [Log]: Clicked on Next button
+13-03-2021 08:47:44 INFO [Log]: Text message is:Job Title
+13-03-2021 08:47:44 INFO [Log]: Add Employee 3rd page is loaded
+13-03-2021 08:47:44 INFO [Log]: Scrolled Down till the bottom of the page
+13-03-2021 08:47:45 INFO [Log]: Region drop down is clicked
+13-03-2021 08:47:45 INFO [Log]: Region is selected as Region-2
+13-03-2021 08:47:45 INFO [Log]: FTE drop down is clicked
+13-03-2021 08:47:45 INFO [Log]: FTE is selected as 0.5
+13-03-2021 08:47:45 INFO [Log]: Temporary Department drop down is clicked
+13-03-2021 08:47:46 INFO [Log]: Temporary Department is selected as Sub unit-2
+13-03-2021 08:47:46 INFO [Log]: Save button is clicked
+13-03-2021 08:47:56 INFO [Log]: Text message is:Employee Id
+13-03-2021 08:47:56 INFO [Log]: Complete Add Employee page is loaded
+13-03-2021 08:47:57 INFO [Log]: Employee list is clicked
+13-03-2021 08:47:57 INFO [Log]: Vishnu Bharath is entered as Employee Name Quick filter
+13-03-2021 08:47:58 INFO [Log]: Enter button action is performed
+13-03-2021 08:47:59 INFO [Log]: Search Result found and click action is performed
+13-03-2021 08:48:02 INFO [Log]: Complete Name is found and it is matched
+13-03-2021 08:48:02 INFO [Log]: location is found and it is matched
+13-03-2021 08:48:02 INFO [Log]: Logout dropwn is clicked
+13-03-2021 08:48:04 INFO [Log]: Logout button is clicked
+13-03-2021 08:48:08 INFO [Log]: XXX---------E-N-D--------------XXX
+13-03-2021 08:48:08 INFO [Log]: X
+13-03-2021 08:48:08 INFO [Log]: X
+13-03-2021 08:55:26 INFO [Log]: The value of TIMESTAMP is : 2021-03-13-085526
+13-03-2021 08:55:26 INFO [Log]: The specified directory couldn't created
+13-03-2021 08:55:26 INFO [Log]: *****************************************************************
+13-03-2021 08:55:26 INFO [Log]: **********AddEmployee************
+13-03-2021 08:55:26 INFO [Log]: ******************************************************************
+13-03-2021 08:55:26 INFO [Log]: The Project Path is:C:\Eclipse\SeleniumLectures\SeleniumAutomation_OrangeHRM
+13-03-2021 08:55:39 INFO [Log]: OrangeHRM website is loaded
+13-03-2021 08:55:39 INFO [Log]: Admin is entered as a Username
+13-03-2021 08:55:40 INFO [Log]: Admin@123 is entered as a Password
+13-03-2021 08:55:48 INFO [Log]: Login button is clicked
+13-03-2021 08:55:48 INFO [Log]: Login is successful and Home page is loaded
+13-03-2021 08:55:48 INFO [Log]: PIM Menu is clicked
+13-03-2021 08:55:49 INFO [Log]: Add Employee is clicked
+13-03-2021 08:56:02 INFO [Log]: Text message is:* Required field
+13-03-2021 08:56:02 INFO [Log]: Add Employee page is loaded
+13-03-2021 08:56:02 INFO [Log]: Irfan is entered as a first name
+13-03-2021 08:56:02 INFO [Log]: Anwar is entered as a last name
+13-03-2021 08:56:03 INFO [Log]: Indian Development Cener location is found and it is clicked
+13-03-2021 08:56:03 INFO [Log]: Next button is clicked
+13-03-2021 08:56:03 INFO [Log]: Text message is:First Name*
+13-03-2021 08:56:03 INFO [Log]: Add Employee 2d page is loaded
+13-03-2021 08:56:03 INFO [Log]: Scrolled Down till the bottom of the page
+13-03-2021 08:56:11 INFO [Log]: Blood Group is clicked
+13-03-2021 08:56:11 INFO [Log]: Blood Group is selected AB
+13-03-2021 08:56:11 INFO [Log]: Playing Games is entered as Hobbies
+13-03-2021 08:56:11 INFO [Log]: Clicked on Next button
+13-03-2021 08:56:19 INFO [Log]: Text message is:Job Title
+13-03-2021 08:56:19 INFO [Log]: Add Employee 3rd page is loaded
+13-03-2021 08:56:19 INFO [Log]: Scrolled Down till the bottom of the page
+13-03-2021 08:56:19 INFO [Log]: Region drop down is clicked
+13-03-2021 08:56:20 INFO [Log]: Region is selected as Region-2
+13-03-2021 08:56:20 INFO [Log]: FTE drop down is clicked
+13-03-2021 08:56:20 INFO [Log]: FTE is selected as 0.5
+13-03-2021 08:56:20 INFO [Log]: Temporary Department drop down is clicked
+13-03-2021 08:56:21 INFO [Log]: Temporary Department is selected as Sub unit-2
+13-03-2021 08:56:21 INFO [Log]: Save button is clicked
+13-03-2021 08:56:32 INFO [Log]: Text message is:Employee Id
+13-03-2021 08:56:32 INFO [Log]: Complete Add Employee page is loaded
+13-03-2021 08:56:33 INFO [Log]: Employee list is clicked
+13-03-2021 08:56:33 INFO [Log]: Vishnu Bharath is entered as Employee Name Quick filter
+13-03-2021 08:56:34 INFO [Log]: Enter button action is performed
+13-03-2021 08:56:36 INFO [Log]: Search Result found and click action is performed
+13-03-2021 08:56:39 INFO [Log]: Complete Name is found and it is matched
+13-03-2021 08:56:39 INFO [Log]: location is found and it is matched
+13-03-2021 08:56:39 INFO [Log]: Logout dropwn is clicked
+13-03-2021 08:56:41 INFO [Log]: Logout button is clicked
+13-03-2021 08:56:44 INFO [Log]: XXX---------E-N-D--------------XXX
+13-03-2021 08:56:44 INFO [Log]: X
+13-03-2021 08:56:44 INFO [Log]: X
+13-03-2021 09:31:54 INFO [Log]: *****************************************************************
+13-03-2021 09:31:54 INFO [Log]: **********AddEmployee************
+13-03-2021 09:31:54 INFO [Log]: ******************************************************************
+13-03-2021 09:31:54 INFO [Log]: The Project Path is:C:\Eclipse\SeleniumLectures\SeleniumAutomation_OrangeHRM
+13-03-2021 09:32:02 INFO [Log]: OrangeHRM website is loaded
+13-03-2021 09:32:02 INFO [Log]: Admin is entered as a Username
+13-03-2021 09:32:02 INFO [Log]: Admin@123 is entered as a Password
+13-03-2021 09:32:10 INFO [Log]: Login button is clicked
+13-03-2021 09:32:10 INFO [Log]: Login is successful and Home page is loaded
+13-03-2021 09:32:10 INFO [Log]: PIM Menu is clicked
+13-03-2021 09:32:11 INFO [Log]: Add Employee is clicked
+13-03-2021 09:32:24 INFO [Log]: Text message is:* Required field
+13-03-2021 09:32:24 INFO [Log]: Add Employee page is loaded
+13-03-2021 09:32:24 INFO [Log]: Irfan is entered as a first name
+13-03-2021 09:32:25 INFO [Log]: Anwar is entered as a last name
+13-03-2021 09:32:25 INFO [Log]: Indian Development Cener location is found and it is clicked
+13-03-2021 09:32:26 INFO [Log]: Next button is clicked
+13-03-2021 09:32:26 INFO [Log]: Text message is:First Name*
+13-03-2021 09:32:26 INFO [Log]: Add Employee 2d page is loaded
+13-03-2021 09:32:26 INFO [Log]: Scrolled Down till the bottom of the page
+13-03-2021 09:32:33 INFO [Log]: Blood Group is clicked
+13-03-2021 09:32:34 INFO [Log]: Blood Group is selected AB
+13-03-2021 09:32:34 INFO [Log]: Playing Games is entered as Hobbies
+13-03-2021 09:32:34 INFO [Log]: Clicked on Next button
+13-03-2021 09:32:42 INFO [Log]: Text message is:Job Title
+13-03-2021 09:32:42 INFO [Log]: Add Employee 3rd page is loaded
+13-03-2021 09:32:42 INFO [Log]: Scrolled Down till the bottom of the page
+13-03-2021 09:32:42 INFO [Log]: Region drop down is clicked
+13-03-2021 09:32:43 INFO [Log]: Region is selected as Region-2
+13-03-2021 09:32:43 INFO [Log]: FTE drop down is clicked
+13-03-2021 09:32:43 INFO [Log]: FTE is selected as 0.5
+13-03-2021 09:32:43 INFO [Log]: Temporary Department drop down is clicked
+13-03-2021 09:32:43 INFO [Log]: Temporary Department is selected as Sub unit-2
+13-03-2021 09:32:44 INFO [Log]: Save button is clicked
+13-03-2021 09:32:54 INFO [Log]: Text message is:Employee Id
+13-03-2021 09:32:54 INFO [Log]: Complete Add Employee page is loaded
+13-03-2021 09:32:55 INFO [Log]: Employee list is clicked
+13-03-2021 09:32:55 INFO [Log]: Vishnu Bharath is entered as Employee Name Quick filter
+13-03-2021 09:32:55 INFO [Log]: Enter button action is performed
+13-03-2021 09:32:56 INFO [Log]: Search Result found and click action is performed
+13-03-2021 09:32:59 INFO [Log]: Complete Name is found and it is matched
+13-03-2021 09:32:59 INFO [Log]: location is found and it is matched
+13-03-2021 09:32:59 INFO [Log]: Logout dropwn is clicked
+13-03-2021 09:33:01 INFO [Log]: Logout button is clicked
+13-03-2021 09:33:04 INFO [Log]: XXX---------E-N-D--------------XXX
+13-03-2021 09:33:04 INFO [Log]: X
+13-03-2021 09:33:04 INFO [Log]: X
